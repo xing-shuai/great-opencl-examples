@@ -1,6 +1,6 @@
 # set minimum cmake version
 cmake_minimum_required(VERSION 3.0)
-project(XYAIBridge LANGUAGES C CXX ASM)
+project(OpenCLTEST LANGUAGES C CXX ASM)
 
 
 # build release lib if not set build type
