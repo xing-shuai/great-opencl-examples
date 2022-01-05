@@ -1,0 +1,2 @@
+add_executable(cached_matrix_multiplication cached_matrix_multiplication.cpp)
+target_link_libraries(cached_matrix_multiplication -lOpenCL)

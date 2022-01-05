@@ -1,0 +1,2 @@
+add_executable(array_addition array_addition.cpp)
+target_link_libraries(array_addition -lOpenCL)
